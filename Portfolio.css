@@ -1,0 +1,30 @@
+nav {
+    background-color: rgb(118, 239, 255);
+}
+
+.jumbotron {
+    padding-top: 7rem;
+    background-color: rgba(0, 225, 255, 0.226);
+}
+
+#projects {
+    background-color: rgba(0, 225, 255, 0.226);
+}
+
+footer {
+    background-color: rgb(118, 239, 255);
+    color: black;
+}
+
+footer a {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+p i {
+    color: rgb(255, 160, 72);
+}
